@@ -182,9 +182,10 @@ img { max-width: 100%; }
 .navbar-brand {
 	width: 90px;
 	height: 80px;
-	background: url(../img/favicon-96x96.png) left center no-repeat;
+	background: url(../img/circlelogo.png) left center no-repeat;
 	border: 0;
 	text-indent: -99999px;
+	border-radius: 100%;
 }
 
 
