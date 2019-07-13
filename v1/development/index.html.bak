@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- Required meta tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Title -->
+    <title>Equity Publishing</title>
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,600">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700"
+      type="text/css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
+    <!--<link rel="stylesheet" href="assets/css/fontawesome.css">  -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/media-queries.css">
+    <link rel="stylesheet" href="assets/css/jquery.ui.css">
+    <link rel="stylesheet" href="assets/css/contact.css">
+    <!-- <link rel="stylesheet" href="assets/css/default.css">     -->
+    <!-- Favicon and touch icons -->
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-icon-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-icon-120x120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-icon-76x76.png">
+    <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-icon-57x57.png">
+    <link rel="icon" href="assets/img/favicon-16x16.png">
+    <!-- Google Analytics-->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-129028860-5"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129028860-5');
+</script> </head>
+  <body>
+    <!-- Top menu -->
+    <nav class="navbar navbar-dark fixed-top navbar-expand-md navbar-no-bg">
+      <div class="container"> <a class="navbar-brand" href="index.html">Equity
+          Publishing</a> <button class="navbar-toggler" type="button" data-toggle="collapse"
+          data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+          aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"> <a class="nav-link scroll-link" href="#top-contents">Home</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link scroll-link" href="#services">Services</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link scroll-link" href="#about-us">About</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link scroll-link" href="#portfolio">Portfolio</a>
+            </li>
+            <li class="nav-item"> <a class="nav-link scroll-link" href="#contact-us">Contact
+                Us</a> </li>
+            <li class="nav-item"> <a class="nav-link scroll-link" href="#testimonials">Testimonials</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <!-- Top content -->
+    <div class="top-content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 offset-md-2 text">
+            <h1 class="wow fadeInLeftBig">Equity Publishing</h1>
+            <div class="description wow fadeInLeftBig">
+              <p> At Equity Publishing publishes a wide-variety of
+                Retirement Home, newstand quality custom magazines. These
+                magazines are both available in print and digital at no
+                additional cost to the client. </p>
+            </div>
+            <div class="top-big-link wow fadeInUp"> <a class="btn btn-primary btn-link-1"
+                href="#call-to-action">Download the Latest Publication</a> <a class="btn btn-primary btn-link-2 scroll-link"
+                href="#services">Learn more</a> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Services -->
+    <div class="services-container section-container">
+      <div class="container">
+        <div class="row">
+          <div class="col services section-description wow fadeIn">
+            <h2>Our Services</h2>
+            <div class="divider-1 wow fadeInUp"><span></span></div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-4 services-box wow fadeInUp">
+            <div class="row">
+              <div class="col-md-4">
+                <div class="services-box-icon"> <i class="fas fa-magic"></i> </div>
+              </div>
+              <div class="col-md-8">
+                <h3>Magazines</h3>
+                <p>The value of a custom magazine can be explained in two words,
+                  Additional Residents</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 services-box wow fadeInDown">
+            <div class="row">
+              <div class="col-md-4">
+                <div class="services-box-icon"> <i class="fas fa-cog"></i> </div>
+              </div>
+              <div class="col-md-8">
+                <h3>Web Services</h3>
+                <p> Magazines in this time and day consist of not only their
+                  ability to print, but to adapt to modern times. This requires
+                  implementing and publishing your magazine online. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 services-box wow fadeInUp">
+            <div class="row">
+              <div class="col-md-4">
+                <div class="services-box-icon"> <i class="fab fa-google"></i> </div>
+              </div>
+              <div class="col-md-8">
+                <h3>Marketing</h3>
+                <p> Reach your target market with an effective vehicle, cut
+                  through advertising clutter, and deliver a specific message
+                  crafted by you. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- About us -->
+    <div class="about-us-container section-container section-container-gray-bg">
+      <div class="container">
+        <div class="row">
+          <div class="col-12 col-lg-7 about-us-box wow fadeInLeft">
+            <div class="about-us-box-text">
+              <h3>About Us</h3>
+              <p class="medium-paragraph"> Equity Publishing has been in
+                business for twenty-five years. </p>
+              <p class="medium-paragraph"> A business that has been given an A+
+                rating by the BBB (Better Business Bur). A rating that has been
+                proven and recognizes the company throughout many years of
+                service. </p>
+              <p class="medium-paragraph"> Equity Publishing guarentees that it
+                will meet the satisfaction of it's clients both quality and
+                punctuality in all the companies work. We deliver, not only on
+                paperback copies but also provide digital solutions via online
+                and mobile friendly platforms to deliver a well maintained and
+                quality publication. </p>
+            </div>
+          </div>
+          <div class="col-12 col-lg-5 about-us-box wow fadeInUp">
+            <div class="about-us-box-img"> <img src="assets/img/about/2.png" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- More services -->
+    <div class="more-services-container section-container">
+      <div class="container">
+        <div class="row">
+          <div class="col more-services section-description wow fadeIn">
+            <h2>More Services</h2>
+            <div class="divider-1 wow fadeInUp"><span></span></div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 more-services-box wow fadeInLeft">
+            <div class="row">
+              <div class="col-md-3">
+                <div class="more-services-box-icon"> <i class="fab fa-twitter"></i>
+                </div>
+              </div>
+              <div class="col-md-9">
+                <h3>Direct Mail</h3>
+                <div class="table-responsive">
+                  <table class="table">
+                    <!-- Content
+										A 3x5 table										Readership                6,000										Response Rate             2%              120										Close Ratio               10%             12
+										Monthly Rent              ~2,200 dollars										Annual Revenue Increase   316,800 dollars										-->
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 more-services-box wow fadeInLeft">
+            <div class="row">
+              <div class="col-md-3">
+                <div class="more-services-box-icon"> <i class="fas fa-pencil-alt"></i>
+                </div>
+              </div>
+              <div class="col-md-9">
+                <h3>Reach Impact Locations</h3>
+                <p> We specialize in reaching what is considered to be Impact
+                  Locations, such as Senior Centers, Churches, Fraternal Groups,
+                  Hospital waiting rooms, Adult Children of Current Residents.
+                  We also provide a list of over 5,000 readers from a list you,
+                  the client, personally choose from. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6 more-services-box wow fadeInLeft">
+            <div class="row">
+              <div class="col-md-3">
+                <div class="more-services-box-icon"> <i class="fas fa-cloud"></i>
+                </div>
+              </div>
+              <div class="col-md-9">
+                <h3>Control the Advertisers and Content</h3>
+                <p> Each Advertiser becomes a distribution point for both your
+                  Marketing Message and Magazine. </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 more-services-box wow fadeInLeft">
+            <div class="row">
+              <div class="col-md-3">
+                <div class="more-services-box-icon"> <i class="fab fa-pinterest"></i>
+                </div>
+              </div>
+              <div class="col-md-9">
+                <h3>Enhance "Branding" Efforts</h3>
+                <p> Increase Traffic to your website by building new
+                  relationships, while stregthening exitsting relationships. As
+                  well as becoming exclusive in your market area. </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Call to action -->
+    <div class="call-to-action-container section-container section-container-image-bg">
+      <div class="container">
+        <div class="row">
+          <div class="col call-to-action section-description wow fadeInLeftBig">
+            <p> Feel free to view our latest publication by clicking the
+              following link to download or view it online. </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col section-bottom-button wow fadeInUp"> <a class="btn btn-primary btn-link-1 scroll-link"
+              href="#top-content">Download now</a> </div>
+        </div>
+      </div>
+    </div>
+    <!-- Contact Us -->
+    <div class="contact-us contact-us-container section-container section-container-gray-bg">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <h1> Contact Us | Equity Publishing </h1>
+            <p class="lead"> This is a contact page for Equity Publishing </p>
+            <form id="contact-form" action="assets/php/contact.php" role="form">
+              <div class="messages"> </div>
+              <div class="controls">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group"> <label for="form_name">First name
+                        *</label> <input id="form_name" name="name" class="form-control"
+                        placeholder="Please enter your firstname *" required="required"
+                        data-error="Firstname is required." type="text">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group"> <label for="form_lastname">Last
+                        name *</label> <input id="form_lastname" name="surname"
+                        class="form-control" placeholder="Please enter your lastname *"
+                        required="required" data-error="Lastname is required." type="text">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group"> <label for="form_email">Email *</label>
+                      <input id="form_email" name="email" class="form-control" placeholder="Please enter your email *"
+                        required="required" data-error="Valid email is required."
+                        type="email">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group"> <label for="form_phone">Phone</label>
+                      <input id="form_phone" name="phone" class="form-control" placeholder="Please enter your phone"
+                        type="tel">
+                      <div class="help-block with-errors"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="form-group"> <label for="form_message">Message *</label>
+                    <textarea id="form_message" name="message" class="form-control"
+placeholder="Message for me *" rows="4" required="required" data-error="Please,leave us a message."></textarea>
+                    <div class="help-block with-errors"></div>
+                  </div>
+                </div>
+                <div class="col-md-12"> <input class="btn btn-success btn-send"
+                    value="Send message" type="submit"> </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <p class="text-muted"><strong></strong> These fields are
+                      required.</p>
+                  </div>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Testimonials -->
+    <div class="testimonials-container section-container section-container-image-bg">
+      <div class="container">
+        <div class="row">
+          <div class="col testimonials section-description wow fadeIn"></div>
+        </div>
+        <div class="row">
+          <div class="col-md-10 offset-md-1 testimonial-list wow fadeInUp">
+            <h2>Testimonials</h2>
+            <div class="tab-content" id="myTabContent">
+              <div class="tab-pane fade show active" id="tab1" role="tabpanel" aria-labelledby="tab1-tab">
+                <!--	<div class="testimonial-image">
+												<img src="assets/img/testimonials/1.jpg" alt="testimonial-1" data-at2x="assets/img/testimonials/1.jpg">								</div>       -->
+                <div class="testimonial-text">
+                  <p> "We liked the idea of a no cost, high quality custom
+                    magazine. My main concern was the time I would spend on the
+                    project. The prep time was about 2 hours and most of that
+                    was in creating the list of prospective advertisers for Mr.
+                    White to call on. Some time was spent near in the end in
+                    kicking around ideas for content and was ore fun than
+                    anything. Our magazine is a big hit and has generated phone
+                    calls, website visits, and tours. Our residents absolutely
+                    love it and love sharing it with their family and freinds.
+                    Mr. White was a pleasure to work with."<br>
+                    <a>Miranda F</a> </p>
+                </div>
+              </div>
+              <div class="tab-pane fade" id="tab2" role="tabpanel" aria-labelledby="tab2-tab">
+                <!--	<div class="testimonial-image">
+									<img src="assets/img/testimonials/3.jpg" alt="testimonial-3" data-at2x="assets/img/testimonials/3.jpg">								</div>  -->
+                <div class="testimonial-text">
+                  <p> "Had a Great Experience"<br>
+                    <a href="#">Archie G</a> </p>
+                </div>
+              </div>
+            </div>
+            <ul class="nav nav-tabs" id="myTab" role="tablist">
+              <li class="nav-item"> <br>
+              </li>
+              <li class="nav-item"> <br>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- portfolio -->
+    <div class="portfolio-container section-container">
+      <div class="container">
+        <div class="row"> </div>
+      </div>
+    </div>
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5 footer-left">
+            <p>© Equity Publishing <a href="#top-content">Equity Publishing</a>.</p>
+          </div>
+          <div class="col-md-6 offset-md-1 footer-right"> <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-dribbble"></i></a> <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a> <a href="#"><i class="fab fa-pinterest"></i></a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col footer-bottom"> <a class="scroll-link" href="#top-content"><i
+                class="fas fa-chevron-up"></i></a> </div>
+        </div>
+      </div>
+    </footer>
+    <!-- Javascript -->
+    <script src="assets/js/jquery-3.2.1.min.js"></script>
+    <script src="assets/js/jquery-migrate-3.0.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+crossorigin="anonymous"></script>
+    <script src="assets/js/jquery.backstretch.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/retina-1.1.0.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/scripts.js"></script>
+    <script src="assets/js/validator.js"></script>
+    <script src="assets/js/contact.js"></script>
+    <!--	<script type="text/javascript" src="assets/js/all.js"></script>
+		<script type="text/javascript" src="assets/js/hash.js"></script>		<script type="text/javascript" src="assets/js/turn.min.js"></script>		<script type="text/javascript" src="assets/js/zoom.min.js"></script>		<script type="text/javascript" src="assets/js/bookshelf.js"></script>   -->
+  </body>
+</html>

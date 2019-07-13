@@ -1,0 +1,150 @@
+/* configure bookshelf layout */
+
+#bookshelf {
+    background: url('https://www.sunshinerising.net/wp-content/uploads/2017/04/trees-1915251_1920.jpg');
+    border: 30px inset #222;
+    width: 80vw;
+    height: auto;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+    margin-bottom: 1vw;
+    max-width: 850px;
+    box-shadow: 0 0 10px 8px #111 inset;
+}
+
+.shelf {
+    border-bottom: 20px ridge #555;
+    height: 180px;
+    box-shadow: 5px 5px 15px #111;
+}
+
+.shelf:last-child {
+    height: 180px;
+    border: none;
+}
+
+.bottom-shelf {
+    height: 180px;
+}
+
+
+/* configure image layout in overlay */
+
+#bookshelf-overlay {
+    display: flex;
+    flex-flow: row wrap;
+    align-content: flex-start;
+    justify-content: space-around;
+    line-height: 30px;
+    border: 30px inset rgba(255, 255, 255, 0.0);
+    margin-top: 15px !important;
+    width: 80vw;
+    height: 750px;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+    max-width: 850px;
+}
+
+.book-cover {
+    height: 150px;
+    width: 110px;
+    margin: 15px 20px 35px 20px;
+    box-shadow: 5px 5px 10px #333;
+}
+
+/* Configure image modal */
+/* The Modal (background) */
+
+.modal {
+    display: none;
+    /* Hidden by default */
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%;
+    /* Full width */
+    height: 100%;
+    /* Full height */
+    overflow: auto;
+    /* Enable scroll if needed */
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.7);
+    /* Black w/ opacity */
+}
+
+.modal-nav-arrow {
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.modal-nav-arrow:hover,
+.modal-nav-arrow:focus {
+    color: #CC5500;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+/* Modal Content/Box */
+
+.modal-content {
+    background-color: rgb(0, 0, 0);
+    /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.0);
+    /* Black w/ opacity */
+    height: auto;
+    width: auto;
+    /* Could be more or less, depending on screen size */
+}
+
+.modal-content img {
+    width: 320px;
+    height: 468px;
+    min-width: 300px;
+    min-height: 460px;
+}
+
+/* The Close Button */
+
+.close {
+    position: relative;
+    color: #ffffff;
+    float: right;
+    top: -15px;
+    left: 10px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #CC5500;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.no-select {
+    -webkit-touch-callout: none;
+    /* iOS Safari */
+    -webkit-user-select: none;
+    /* Safari */
+    -khtml-user-select: none;
+    /* Konqueror HTML */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* Internet Explorer/Edge */
+    user-select: none;
+    /* Non-prefixed version, currently
+       supported by Chrome and Opera */
+}
