@@ -131,7 +131,7 @@
                     } else {
                         $('.details').bind(transitionEnd, function() {
                             $(this).unbind(transitionEnd);
-                            //Chrome has another bug, it doesn't read new css rules after transitionEnd
+                            //Chrome has another bug, it doesn't read new html rules after transitionEnd
                             setTimeout(showBars, 0);
                         });
                     }
@@ -251,7 +251,7 @@
 
                 yepnope({
                     load: [
-                        sample.path+'css/'+demoName+'.css?'+sid,
+                        sample.path+'html/'+demoName+'.html?'+sid,
                         sample.path+'js/'+demoName+'.js?'+sid
                     ]
                 });
@@ -305,7 +305,7 @@
 
                         yepnope({
                             load: [
-                                sample.path+'css/'+demoName+'.css?'+sid,
+                                sample.path+'html/'+demoName+'.html?'+sid,
                                 sample.path+'js/'+demoName+'.js?'+sid
                             ],
                             complete: function() {

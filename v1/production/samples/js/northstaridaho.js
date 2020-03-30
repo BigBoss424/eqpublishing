@@ -327,7 +327,7 @@
 
                     yepnope({
                         test : Modernizr.csstransforms,
-                        nope: sample.path+'css/steve-jobs-html4.css'
+                        nope: sample.path+'html/steve-jobs-html4.html'
                     });
 
                     return;

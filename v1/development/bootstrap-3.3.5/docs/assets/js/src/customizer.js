@@ -258,7 +258,7 @@ window.onload = function () { // wait for load in a dumb way because B-0
     var parser = new less.Parser({
       paths: ['variables.less', 'mixins.less'],
       optimization: 0,
-      filename: baseFilename + '.css'
+      filename: baseFilename + '.html'
     })
 
     parser.parse(lessSource, function (parseErr, tree) {
@@ -266,8 +266,8 @@ window.onload = function () { // wait for load in a dumb way because B-0
         return promise.reject(parseErr)
       }
       try {
-        intoResult[baseFilename + '.css']     = cw + tree.toCSS()
-        intoResult[baseFilename + '.min.css'] = cw + tree.toCSS({ compress: true })
+        intoResult[baseFilename + '.html']     = cw + tree.toCSS()
+        intoResult[baseFilename + '.min.html'] = cw + tree.toCSS({ compress: true })
       } catch (compileErr) {
         return promise.reject(compileErr)
       }
